@@ -4,7 +4,7 @@ Soy Ingeniero de Software con una sólida formación y experiencia en desarrollo
 
 ## **Educación**
 
-- **Ingeniería en Software y Gestión de Desarrollo**
+- **Ingenieria en Desarollo y Gestión de Software**
     
     Universidad Tecnológica Emiliano Zapata del Estado de Morelos (UTEZ)
     
@@ -45,8 +45,8 @@ Soy Ingeniero de Software con una sólida formación y experiencia en desarrollo
 ## **Habilidades Técnicas**
 
 - **Lenguajes de Programación:** Java, Typescript, Dart, Kotlin, Swift
-- **Frameworks y Librerías:** Flutter, React, Next.js, Nest.js, Node.js
-- **Bases de Datos:** PostgreSQL
+- **Frameworks y Librerías:** Flutter, React, Next.js, Nest.js, Node.js, Spring boot
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB
 - **Herramientas y Tecnologías:** Docker, Prisma, Git, UI/UX
 
 ## **Contacto**
@@ -58,4 +58,4 @@ Espero que disfrutes explorando mis proyectos. Siempre estoy buscando nuevas opo
 
 ¡Gracias por visitar mi perfil!
 
-Rodrigo Dorantes
+Rodrigo Dorantes 🦆
