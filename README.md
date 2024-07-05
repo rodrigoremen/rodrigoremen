@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola!👋, Soy Rodrigo Dorantes</h1>
-Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México, listo para conquistar el mundo del desarrollo una línea de código a la vez. 
+Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México, listo para conquistar el mundo del desarrollo una línea de código a la vez.<br>
 
 [![](https://visitcount.itsvg.in/api?id=rodrigoremen&icon=0&color=10)](https://visitcount.itsvg.in)
 
