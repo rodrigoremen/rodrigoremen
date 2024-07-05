@@ -30,7 +30,7 @@ Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  GitHub Stats:
 
-![]((https://github-readme-stats.vercel.app/api?username=rodrigoremen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true))<br/>
+![](https://github-readme-stats.vercel.app/api?username=rodrigoremen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoremen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
