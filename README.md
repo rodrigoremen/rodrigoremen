@@ -4,7 +4,12 @@
 
 <h1 align="center">¡Hola!👋, Soy Rodrigo Dorantes</h1>
 Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México, listo para conquistar el mundo del desarrollo una línea de código a la vez.
-</h3><br><br>
+</h3>
+<p align="center">
+  <a href="https://github.com/rodrigoremen"><img src="https://readme-typing-svg.herokuapp.com?color=%809c13&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+Github;Soy+Rodrigo+Dorantes;Soy+desarrollador+de+Software;Web+Dev;Game+Dev;Mobile+Dev;%3C3"></a>
+</p>
+  
+<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=rodrigoremen&icon=0&color=10)](https://visitcount.itsvg.in)
 
