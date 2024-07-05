@@ -17,7 +17,9 @@ Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0](https://github-readme-stats.vercel.app/api?username=rodrigoremen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)"/>
 </p>
 
+![](https://github-profile-trophy.vercel.app/?username=rodrigoremen&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
 
+<br>
 
 ## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigoremeen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/rodrigo-dorantes) 
@@ -31,9 +33,6 @@ Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoremen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rodrigoremen&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rodrigoremen&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
 
