@@ -1,7 +1,9 @@
 <h1 align="center">¡Hola!👋, Soy Rodrigo Dorantes</h1>
 Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México, listo para conquistar el mundo del desarrollo una línea de código a la vez. 
 <br>
+
 [![](https://visitcount.itsvg.in/api?id=rodrigoremen&icon=0&color=10)](https://visitcount.itsvg.in)
+
 <br><br>
 ### ¿Quién soy?🤔
 <br>Desde pequeño, siempre he sido un curioso de la tecnología. Ahora, con una sólida formación en la Universidad Tecnológica Emiliano Zapata del Estado de Morelos (UTEZ), ¡estoy listo para llevar mis habilidades al siguiente nivel!
@@ -14,7 +16,9 @@ Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México
 <br>Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y crecer. Si tienes una idea genial, un proyecto interesante o simplemente quieres charlar sobre tecnología, ¡contáctame!<br><br>Correo Electrónico: rodrigoivan234@gmail.com<br>Gracias por pasarte por mi perfil. ¡Que el código te acompañe!<br><br>Rodrigo Dorantes 🦆
 
 <p align="center">
+  
   ![](https://github-readme-stats.vercel.app/api?username=rodrigoremen&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)
+  
 </p>
 
 
