@@ -1,13 +1,9 @@
 # 🚀 Sobre mi:
 ¡Hola! Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México, listo para conquistar el mundo del desarrollo una línea de código a la vez. 
 <br><br>
-¿Quién soy?<br>Desde pequeño, siempre he sido un curioso de la tecnología. Ahora, con una sólida formación en la Universidad Tecnológica Emiliano Zapata del Estado de Morelos (UTEZ), ¡estoy listo para llevar mis habilidades al siguiente nivel!
+¿Quién soy?🤔<br>Desde pequeño, siempre he sido un curioso de la tecnología. Ahora, con una sólida formación en la Universidad Tecnológica Emiliano Zapata del Estado de Morelos (UTEZ), ¡estoy listo para llevar mis habilidades al siguiente nivel!
 <br><br>
-Habilidades:<br>Lenguajes de Programación: Java, Typescript, Dart, Kotlin, Swift
-<br>
-Frameworks y Librerías: Flutter, React, Next.js, Nest.js, Node.js, Spring Boot<br>Bases de Datos: PostgreSQL, MySQL, MongoDB<br>Herramientas y Tecnologías: Docker, Prisma, Git, UI/UX
-<br><br>
-¡Hablemos!<br>Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y crecer. Si tienes una idea genial, un proyecto interesante o simplemente quieres charlar sobre tecnología, ¡contáctame!<br><br>Correo Electrónico: rodrigoivan234@gmail.com<br>Gracias por pasarte por mi perfil. ¡Que el código te acompañe!<br><br>Rodrigo Dorantes 🦆
+¡Hablemos!✌️<br>Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y crecer. Si tienes una idea genial, un proyecto interesante o simplemente quieres charlar sobre tecnología, ¡contáctame!<br><br>Correo Electrónico: rodrigoivan234@gmail.com<br>Gracias por pasarte por mi perfil. ¡Que el código te acompañe!<br><br>Rodrigo Dorantes 🦆
 
 
 ## 🌐 Redes Sociales:
