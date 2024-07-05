@@ -14,8 +14,7 @@ Soy Rodrigo Dorantes, un entusiasta Ingeniero de Software de 23 años de México
 <br>Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y crecer. Si tienes una idea genial, un proyecto interesante o simplemente quieres charlar sobre tecnología, ¡contáctame!<br><br>Correo Electrónico: rodrigoivan234@gmail.com<br>Gracias por pasarte por mi perfil. ¡Que el código te acompañe!<br><br>Rodrigo Dorantes 🦆
 
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoremen&theme=dark&hide_border=true
-"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoremen&theme=dark&hide_border=true"/>
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=rodrigoremen&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
